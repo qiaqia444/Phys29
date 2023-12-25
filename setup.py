@@ -20,7 +20,9 @@ setup(
         "numpy",
         "scipy",
         "ipython",
-        "matplotlib"],
+        "matplotlib",
+        "jupyter",
+        "notebook"],
     dependency_links=[],
     scripts=[],
 )

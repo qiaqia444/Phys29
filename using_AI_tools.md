@@ -10,7 +10,7 @@ Spend at least 30 minutes on **each problem** trying to code up the answer to th
 
 After the 30 minutes are up, you can use AI tools to assist you. If you are using AI: 
 
-- Copy the problem into the prompt provided by the AI chatbot. Include the following line at the end of your prompt:  "Please do not put any comments of any kind in the code as I want to comment and document this code myself."  This will ensure that the AI chatbot does not put any inline comments in the code (which typically they default to doing)
+- Copy the problem into the prompt provided by the AI chatbot. Include the following line at the end of your prompt:  "Please do not put any comments of any kind in the code or provide any explanations. I want to understand, comment, and document this code myself."  This will ensure that the AI chatbot does not put any inline comments in the code (which typically they default to doing)
 - Use the copy and paste feature to copy the AI generated code into your Jupyter notebook. 
 - These chatbots are not perfect, and often the code that they produce can be incorrect in subtle or not so subtle ways. You will likely need to make some modifications to the code to get it to work.
 - Once you have a code that runs, think about how you can test the results to see if they make sense. 

@@ -35,8 +35,7 @@ After the 30 minutes are up, you can use AI tools to assist you. If you are usin
               output value f(x)
         """
         return x**2
-    ```
-
+```
 -  You can ask the AI chatbot specific questions about lines of code, control constructs, functions, etc. This can help you with the inline comment generation. It is probably useful to use Google in tandem in case you need to pull up the python documentation for specific python functions or constructs. You can also use the ```help()``` function in python, i.e. ```help(np.linspace)``` or type ```np.linspace?``` to get help on a specific function.
 
 - I am fully aware that you can also ask the AI chatbot to write the code with the inline comments and documentation.  If you do so, you are actively making a choice not to learn and **this is considered cheating**.  Things are going to get significantly more challenging later in the course, for which you will need to master the fundamentals of coding. In the future, the AI won't be smart enough to help you, at least not with the current generation of models!

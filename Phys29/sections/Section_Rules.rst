@@ -1,6 +1,9 @@
 TA: Minghan Chen, minghan@ucsb.edu
+
 Office Hour: TBD (will update by next Monday)
+
 Reader (Grader): TBD
+
 
 Sign-in at the ipad at the front every time you come to section.
 

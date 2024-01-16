@@ -40,7 +40,7 @@ After the 30 minutes are up, you can use AI tools to assist you. If you are usin
 
 - I am fully aware that you can also ask the AI chatbot to write the code with the inline comments and documentation.  If you do so, you are actively making a choice not to learn and **this is considered cheating**.  Things are going to get significantly more challenging later in the course, for which you will need to master the fundamentals of coding. In the future, the AI won't be smart enough to help you, at least not with the current generation of models!
 
-- Homework assignments with insufficient comments and documentation will not receive full credit **even if the code executes correctly**. This applies whether or not you used AI tools for the solution. 
+- Homework assignments with insufficient comments and documentation will not receive full credit **even if the code executes correctly**. This applies whether or not you used AI tools for the solution. For an example of a sufficient level of comments and documentation, see the [example problem with AI tools](https://github.com/enigma-igm/Phys29/blob/main/Phys29/lectures/Week1/05_using_AI_tools.ipynb) from the first lecture. 
 
 - If you use AI, please cite the source in your notebook, i.e. "Problem solved with the assistance of chatGPT". 
 

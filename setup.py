@@ -22,7 +22,8 @@ setup(
         "ipython",
         "matplotlib",
         "jupyter",
-        "notebook"],
+        "notebook", 
+        "pandas"],
     dependency_links=[],
     scripts=[],
 )

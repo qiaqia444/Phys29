@@ -23,7 +23,8 @@ setup(
         "matplotlib",
         "jupyter",
         "notebook", 
-        "pandas"],
+        "pandas", 
+        "Pyarrow"],
     dependency_links=[],
     scripts=[],
 )

@@ -1,0 +1,7 @@
+Hello, World!
+spam
+egg
+foo
+spam
+egg
+foo
